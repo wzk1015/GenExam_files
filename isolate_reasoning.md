@@ -1,20 +1,20 @@
 | Model                  | Rendering/Layout-related Scoring Point Score | Reasoning-related Scoring Point Score |
 |------------------------|-----------------------------------------------|---------------------------------------|
-| Nano Banana Pro | 9.35                                         | 8.97                                   |
-| GPT-Image-1.5 | 8.30                                         | 7.34                                   |
-| GPT-Image-1 | 6.48                                         | 5.00                                   |
-| Seedream 4.5    | 6.40                                         | 4.47                                   |
-| FLUX.2 max   | 6.81                                         | 5.40                                   |
-| Imagen-4-Ultra | 5.83                                         | 4.32                                   |
-| FLUX.2 dev   | 4.73                                         | 3.32                                   |
-| qwen-image-2512         | 4.04                                         | 2.85                                   |
-| HiDream-I1-Full | 2.05                                         | 1.25                                   |
-| Stable Diffusion 3.5 Large | 1.55                                         | 1.29                                   |
-| BAGEL (thinking) | 1.01                                         | 0.70                                   |
-| BAGEL | 0.62                                         | 0.42                                   |
-| Show-o2-7B | 1.25                                         | 0.82                                   |
-| Show-o2-1.5B-HQ | 1.13                                         | 0.86                                   |
-| BLIP3o-NEXT-GRPO-Text-3B | 1.02                                         | 0.74                                   |
-| BLIP3o-8B | 0.48                                         | 0.29                                   |
-| Janus-Pro | 0.30                                         | 0.21                                   |
-| Emu3    | 0.48                                         | 0.34                                   |
+| Nano Banana Pro | 0.935                                       | 0.897                                 |
+| GPT-Image-1.5 | 0.830                                       | 0.734                                 |
+| GPT-Image-1 | 0.648                                       | 0.500                                 |
+| Seedream 4.5    | 0.640                                       | 0.447                                 |
+| FLUX.2 max   | 0.681                                       | 0.540                                 |
+| Imagen-4-Ultra | 0.583                                       | 0.432                                 |
+| FLUX.2 dev   | 0.473                                       | 0.332                                 |
+| qwen-image-2512         | 0.404                                       | 0.285                                 |
+| HiDream-I1-Full | 0.205                                       | 0.125                                 |
+| Stable Diffusion 3.5 Large | 0.155                                       | 0.129                                 |
+| BAGEL (thinking) | 0.101                                       | 0.070                                 |
+| BAGEL | 0.062                                       | 0.042                                 |
+| Show-o2-7B | 0.125                                       | 0.082                                 |
+| Show-o2-1.5B-HQ | 0.113                                       | 0.086                                 |
+| BLIP3o-NEXT-GRPO-Text-3B | 0.102                                       | 0.074                                 |
+| BLIP3o-8B | 0.048                                       | 0.029                                 |
+| Janus-Pro | 0.030                                       | 0.021                                 |
+| Emu3    | 0.048                                       | 0.034                                 |
